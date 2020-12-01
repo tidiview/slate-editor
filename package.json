@@ -1,0 +1,40 @@
+{
+  "name": "slateeditor-with-types",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.tsx",
+  "dependencies": {
+    "@types/is-url": "1.2.28",
+    "@types/react": "16.9.17",
+    "@types/slate": "0.47.5",
+    "@types/slate-react": "0.22.9",
+    "emotion": "10.0.27",
+    "is-hotkey": "0.1.6",
+    "is-url": "1.2.4",
+    "react": "16.8.4",
+    "react-dom": "16.8.4",
+    "react-scripts": "2.1.3",
+    "slate": "0.57.1",
+    "slate-drop-or-paste-images": "0.9.1",
+    "slate-history": "0.57.1",
+    "slate-react": "0.57.1"
+  },
+  "devDependencies": {
+    "@types/react": "16.8.8",
+    "@types/react-dom": "16.8.2",
+    "typescript": "3.3.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
